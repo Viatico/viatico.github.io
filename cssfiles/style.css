@@ -22,6 +22,30 @@ h3{
   top: -2.5rem;
 }
 
+h4{
+  position: relative;
+  top: -5rem;
+}
+
+h5{
+  font-size: xx-small !important;
+  position: relative;
+  top: -6.7rem;
+}
+
+h6{
+  font-size: xx-small !important;
+  position: relative;
+  top: -8rem;
+}
+
+.copyright{
+  color: lightgray;
+  font-size: xx-small !important;
+  font-weight: 100;
+  font-style: italic !important;
+}
+
 .center{
     display: flex;
     justify-content: center;
