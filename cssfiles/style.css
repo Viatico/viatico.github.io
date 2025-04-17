@@ -4,7 +4,7 @@
     background-position: center;
     background-size: 10rem;
     font-size: large;
-    font-family: 'Courier New', Courier, monospace
+    font-family: 'Courier New', Courier, monospace;
   }
 
 h1{
@@ -24,7 +24,7 @@ h3{
 
 h4{
   position: relative;
-  top: -5rem;
+  top: -100px;
 }
 
 h5{
