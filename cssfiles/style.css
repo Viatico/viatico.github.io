@@ -85,14 +85,19 @@ h6{
     text-align: center;
 }
 
-.socials {
+.socials  {
+  filter: brightness(60%);
 
   &:hover{
     filter: brightness(30%)
   }
 
-}
+} 
 
-.discord{
-  filter: brightness(60%);
+.licenses {
+
+  &:hover{
+    filter: brightness(60%)
+  }
+
 }
